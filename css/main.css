@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #EA3546;
+}
+
+h2 {
+  color: #662E9B;
+}
+
+p.uno {
+  color: #662E9B;
+}
+
+p.dos {
+  color: #067BC2;
+}
+ th {
+   color: #F37748;
+ }
+
+td {
+  color: #D56062;
+}
